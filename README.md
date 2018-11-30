@@ -25,7 +25,7 @@ pastes.
 
 Paste can easily be installed behind your network, and it's all open source!
 
-* [Paste-Keeplink.in](https://github.com/seejohnrun/paste_keeplink.in)
+* [Paste-Keeplink.in](https://github.com/abhishekbalam/paste_keeplink.in)
 
 ## Author
 
