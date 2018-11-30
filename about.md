@@ -26,7 +26,7 @@ pastes.
 
 Paste can easily be installed behind your network, and it's all open source!
 
-* [Paste-Keeplink.in](https://github.com/seejohnrun/paste_keeplink.in)
+* [Paste-Keeplink.in](https://github.com/abhishekbalam/paste_keeplink.in)
 
 ## Author
 
@@ -42,5 +42,5 @@ Please check out my other tools:
 This project is a fork of [Hastebin.com](https://hastebin.com).
 
 Thanks to:
-- John Crepezzi <john.crepezzi@gmail.com>
-- Brian Dawson <bridawson@gmail.com>
+- John Crepezzi : <john.crepezzi@gmail.com>
+- Brian Dawson : <bridawson@gmail.com>
