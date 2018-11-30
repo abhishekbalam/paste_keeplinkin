@@ -2,6 +2,8 @@
 
 Paste is a simple to use and easy to access code/text and sharing tool made for the community.
 
+This tool is best viewed on desktop as of now. I'll make it responsive soon.
+
 ## Basic Usage
 
 Type what you want me to see, click "Save", and then copy the URL.  Send that
