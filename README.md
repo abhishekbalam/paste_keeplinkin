@@ -38,7 +38,7 @@ Please check out my other tools:
 
 ## Aknowledgements
 
-This project is a fork of [Hastebin.com](https://hastebin.com).
+This project is a fork of [Hastebin.com](https://hastebin.com). Repo [here](https://github.com/seejohnrun/haste-server).
 
 Thanks to:
 - John Crepezzi : <john.crepezzi@gmail.com>
