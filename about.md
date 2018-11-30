@@ -1,10 +1,7 @@
-# Paste
 
-Sharing code is a good thing, and it should be _really_ easy to do it.
-A lot of times, I want to show you something I'm seeing - and that's where we
-use pastebins.
+# Paste.Keeplink.In
 
-Haste is the prettiest, easiest to use pastebin ever made.
+Paste is a simple to use and easy to access code/text and sharing tool made for the community.
 
 ## Basic Usage
 
@@ -27,12 +24,23 @@ pastes.
 
 ## Open Source
 
-Haste can easily be installed behind your network, and it's all open source!
+Paste can easily be installed behind your network, and it's all open source!
 
-* [paste-serve](https://github.com/seejohnrun/paste_keeplink.in)
+* [Paste-Keeplink.in](https://github.com/seejohnrun/paste_keeplink.in)
 
-## Credits
+## Author
 
-This project us a fork of [Hastebin.com](https://hastebin.com) made by:
-Code by John Crepezzi <john.crepezzi@gmail.com>
-Key Design by Brian Dawson <bridawson@gmail.com>
+Made by [Abhishek Balam](https://abhishekbalam.xyz).
+Github Profile : [abhishekbalam](https://github.com/abhishekbalam)
+
+Please check out my other tools: 
+1. [Keeplink.in](https://keeplink.in) : A simple to use, feature rick and quick URL shortener.
+2. [Mail.Keeplink.in](https://mail.keeplink.in): A simple no-fuss tool to email yourself links which you found interesting on the web.
+
+## Aknowledgements
+
+This project is a fork of [Hastebin.com](https://hastebin.com).
+
+Thanks to:
+John Crepezzi <john.crepezzi@gmail.com>
+Brian Dawson <bridawson@gmail.com>

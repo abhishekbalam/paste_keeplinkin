@@ -1,10 +1,12 @@
 body {
-	background: #002B36;
+	/*background: #002B36;*/
+	background: #23241F;
 	padding: 20px 50px;
 	margin: 0px;
 }
 
 /* textarea */
+
 
 textarea {
 	background: transparent;
@@ -16,8 +18,18 @@ textarea {
 	font-family: monospace;
 	outline: none;
 	resize: none;
-	font-size: 13px;
+	font-size: 17px;
 }
+
+textarea::selection {
+  background: #FFF; /* WebKit/Blink Browsers */
+  /*color: black ;*/
+}
+textarea::-moz-selection {
+  background: #FFF; /* Gecko Browsers */
+  /*color: black*/
+}
+
 
 /* the line numbers */
 
@@ -28,7 +40,7 @@ textarea {
 	top: 20px;
 	left: 0px;
 	width: 30px; /* 30 to get 20 away from box */
-	font-size: 13px;
+	font-size: 17px;
 	font-family: monospace;
 	text-align: right;
 }
@@ -41,9 +53,9 @@ textarea {
 	width: 100%;
 	border: 0px;
 	outline: none;
-	font-size: 13px;
-	padding-right: 360px;
-  overflow: inherit;
+	font-size: 17px;
+	/*padding-right: 360px;*/
+ 	overflow: inherit;
 }
 
 #box code {
@@ -64,10 +76,12 @@ textarea {
 	padding: 5px;
 	text-align: center;
 	background: #00222b;
+	background: #e53f0b;
 }
 
 #box2 {
-	background: #08323c;
+	/*background: #08323c;*/
+	background: #35362f;
 	font-size: 0px;
 	padding: 0px 5px;
 }
