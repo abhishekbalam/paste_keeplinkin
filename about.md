@@ -42,5 +42,5 @@ Please check out my other tools:
 This project is a fork of [Hastebin.com](https://hastebin.com).
 
 Thanks to:
-John Crepezzi <john.crepezzi@gmail.com>
-Brian Dawson <bridawson@gmail.com>
+- John Crepezzi <john.crepezzi@gmail.com>
+- Brian Dawson <bridawson@gmail.com>

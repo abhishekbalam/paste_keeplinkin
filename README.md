@@ -29,10 +29,10 @@ Paste can easily be installed behind your network, and it's all open source!
 
 ## Author
 
-Made by [Abhishek Balam](https://abhishekbalam.xyz)
-My Github Profile : [abhishekbalam](https://github.com/abhishekbalam)
+Made by [Abhishek Balam](https://abhishekbalam.xyz).
+Github Profile : [abhishekbalam](https://github.com/abhishekbalam)
 
-Also check out my other tools: 
+Please check out my other tools: 
 1. [Keeplink.in](https://keeplink.in) : A simple to use, feature rick and quick URL shortener.
 2. [Mail.Keeplink.in](https://mail.keeplink.in): A simple no-fuss tool to email yourself links which you found interesting on the web.
 
@@ -40,6 +40,6 @@ Also check out my other tools:
 
 This project is a fork of [Hastebin.com](https://hastebin.com).
 
-Made by:
-John Crepezzi <john.crepezzi@gmail.com>
-Brian Dawson <bridawson@gmail.com>
+Thanks to:
+- John Crepezzi <john.crepezzi@gmail.com>
+- Brian Dawson <bridawson@gmail.com>
