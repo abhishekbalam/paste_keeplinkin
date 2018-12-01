@@ -2,7 +2,7 @@
   "name": "haste",
   "version": "0.1.0",
   "private": true,
-  "description": "Private Hastebin Server",
+  "description": "Beautiful and simple way to share code or text.",
   "keywords": [
     "paste",
     "pastebin"
