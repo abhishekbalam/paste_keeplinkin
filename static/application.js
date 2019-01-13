@@ -34,13 +34,11 @@ haste_document.prototype.load = function(key, callback, lang) {
           high = hljs.highlight(lang, res.data);
         }
         else {
-          // high = hljs.highlightAuto(res.data);
-          high = { value: _this.htmlEscape(res.data) };
+          high = hljs.highlightAuto(res.data);
         }
       } catch(err) {
         // failed highlight, fall back on auto
-        // high = hljs.highlightAuto(res.data);
-        high = { value: _this.htmlEscape(res.data) };
+        high = hljs.highlightAuto(res.data);
       }
       callback({
         value: high.value,
