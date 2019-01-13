@@ -35,7 +35,7 @@
   "storage": {
     "type": "redis",
     "host": "localhost",
-    "port": 18726,
+    "port": 6379,
     "db": 2
   },
 
